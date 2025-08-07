@@ -37,7 +37,7 @@ export default function ContactPage() {
           </div>
           <h2 className="text-3xl font-bold text-white mb-6">Message Sent!</h2>
           <p className="text-slate-400 mb-8 leading-relaxed">
-            Thank you for reaching out to us. We'll get back to you within 24 hours.
+            Thank you for reaching out to us. We&apos;ll get back to you within 24 hours.
           </p>
           <button
             onClick={() => setIsSubmitted(false)}
@@ -67,7 +67,7 @@ export default function ContactPage() {
             Get in <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">Touch</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-300 max-w-3xl mx-auto">
-            We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
         </div>
       </section>
@@ -81,7 +81,7 @@ export default function ContactPage() {
               <span className="inline-block px-4 py-2 bg-emerald-500/20 border border-emerald-500/30 rounded-full text-emerald-300 text-sm font-medium mb-8">
                 Contact Information
               </span>
-              <h2 className="text-4xl font-bold text-white mb-12">Let's Connect</h2>
+              <h2 className="text-4xl font-bold text-white mb-12">Let&apos;s Connect</h2>
               
               <div className="space-y-8">
                 {[
@@ -261,7 +261,7 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-2xl font-bold text-white mb-4">Interactive Map Coming Soon</h3>
                 <p className="text-slate-400">
-                  We're working on integrating an interactive map to help you find us easily.
+                  We&apos;re working on integrating an interactive map to help you find us easily.
                 </p>
               </div>
             </div>

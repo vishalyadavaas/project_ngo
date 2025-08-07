@@ -69,7 +69,7 @@ export default function VolunteerPage() {
           <h2 className="text-3xl font-bold text-white mb-6">Application Submitted!</h2>
           <p className="text-slate-400 mb-8 leading-relaxed">
             Thank you for your interest in volunteering with HopeForAll NGO. 
-            We'll review your application and get back to you within 5-7 business days.
+            We&apos;ll review your application and get back to you within 5-7 business days.
           </p>
           <button
             onClick={() => setIsSubmitted(false)}

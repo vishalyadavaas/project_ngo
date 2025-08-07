@@ -36,7 +36,7 @@ export default function AboutPage() {
                 <p>
                   Founded in 2015, HopeForAll NGO began with a simple vision: to create lasting positive change 
                   in communities around the world. What started as a small group of passionate volunteers has 
-                  grown into a global movement dedicated to addressing some of humanity's most pressing challenges.
+                  grown into a global movement dedicated to addressing some of humanity&apos;s most pressing challenges.
                 </p>
                 <p>
                   Our journey began when our founder, inspired by witnessing the resilience of communities facing 
